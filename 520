@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>D</title>
+  </head>
+  <body>
+    <div
+      style="
+        background-color: rgb(109, 166, 212);
+        text-align: center;
+        padding: 40px;
+      "
+    >
+      <a href="https://cn.bing.com/images/search?q=sky&form=HDRSC2&first=1"
+        ><img
+          src="https://wallpapercave.com/wp/wp2706055.jpg"
+          width="500px"
+          height="300px"
+      /></a>
+    </div>
+    <div
+      style="
+        max-width: 700px;
+        margin: 30px auto;
+        padding: 15px;
+        line-height: 1.7;
+      "
+    >
+      <a href="http://127.0.0.1:3000/c.html"><button>按钮</button></a>
+      <p>
+        风铃花的星球,原本是每年郁郁葱葱，被鸟语花香青山绿水所环绕的,可有一天
+        ,星球忽然间碎成了两半，大地在颤动，原本稳定的两部分半球彼此相离而去，风铃花不知所措。
+        在迷茫与害怕中，随着她站在的那一半星球的土地上渐行渐远，直到另一半星球彻底看不见了。
+      </p>
+      <p>
+        从那以后,半球的气候变得越来越干旱,星球上几乎所有的植物都枯亡了
+        只剩下一颗,挺拔的枫树,还屹立在半球之上。
+      </p>
+      <p>
+        风铃花独守着这颗枫树, 每天遥望着, 天上奇奇怪怪的星星。
+        其实曾经有过星星， 落到过半球上， 风铃花也想和他们交个朋友。
+        但他们大多都只打了个招呼，就弹走了。 风铃花对星星只是有朦胧的憧憬，
+        并不知道星星的世界是怎样的
+      </p>
+      <p>点击按钮返回</p> 
+      <p>点击下方继续风铃花的回忆</p>
+      <p></p>
+    </div>
+    <div
+      style="
+        background-color: aqua;
+        text-align: center;
+        padding: 40px;
+        font-size: 12px;
+      "
+    >
+      <p>memory</p>
+      <a href="http://127.0.0.1:3000/d.html"> next</a>
+    </div>
+  </body>
+</html>
